@@ -30,7 +30,7 @@ public static void main(String args[]) {
 	s1.trangle();
 	s1.display();
 	s1.prop();
-	
+// code is right	
 	
 }
 }
