@@ -36,6 +36,12 @@ class square extends Shape{
 		System.out.println("circle is drawn");
 	}
 }
+class Rectangle extends Shape{
+         void display(){
+
+           System.out.println("rectanglr is drawn");
+       }
+}
 
 public class MultilevelInheritance {
 public static void main(String args[]) {
