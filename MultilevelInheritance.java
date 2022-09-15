@@ -23,7 +23,13 @@ class Square extends Rectangle{
 	}
 }
 
-class Circle extends Shape{
+class Circle extends square{
+	
+	void display() {
+		
+		System.out.println("circle is drawn");
+	}
+class square extends Shape{
 	
 	void display() {
 		
