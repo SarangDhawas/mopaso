@@ -22,6 +22,15 @@ class Square extends Rectangle{
 		System.out.println("All side are equals");
 	}
 }
+
+class Circle extends Shape{
+	
+	void display() {
+		
+		System.out.println("circle is drawn");
+	}
+}
+
 public class MultilevelInheritance {
 public static void main(String args[]) {
 	
