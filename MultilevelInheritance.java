@@ -52,8 +52,9 @@ public static void main(String args[]) {
 	s1.display();
 	s1.prop();
 	s1.display();
-//s1.display not added in this code
-// code is right	
-	
+	s1.display();
+//s1.display not added in //this code is right	
+System.out.println("code is right");
+System.out.print ("main code");
 }
 }
