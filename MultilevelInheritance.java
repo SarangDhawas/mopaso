@@ -59,5 +59,6 @@ System.out.println ("main code");
 System.out.println("Changes by niranjan");
 System.out.println(s1.trangle);
 System.out.println("Hello from Hitesh");
+System.out.println("Good job boys keep it up");
 }
 }
