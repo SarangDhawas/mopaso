@@ -12,7 +12,7 @@ class Rectangle extends Shape{
 	
 	void display() {
 		
-		System.out.println("Opposite side are equal");
+		System.out.println("ASHISH ");
 	}
 }
 class Square extends Rectangle{
