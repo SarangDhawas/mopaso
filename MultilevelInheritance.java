@@ -6,6 +6,12 @@ class Shape{
 		
 		System.out.println("A plan figure with three equal side");
 	}
+//saeang
+//tushar
+//sarang
+
+
+
 }
 
 class Rectangle extends Shape{
@@ -60,5 +66,6 @@ System.out.println("Changes by niranjan");
 System.out.println(s1.trangle);
 System.out.println("Hello from Hitesh");
 System.out.println("Good job boys keep it up");
+SYstem.out.println("well done");
 }
 }
