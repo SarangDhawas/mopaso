@@ -6,6 +6,12 @@ class Shape{
 		
 		System.out.println("A plan figure with three equal side");
 	}
+//saeang
+//tushar
+//sarang
+
+
+
 }
 
 class Rectangle extends Shape{
