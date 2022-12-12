@@ -9,7 +9,7 @@ class Shape{
 //saeang
 //tushar
 //sarang
-
+//dhawas
 
 
 }
@@ -32,7 +32,8 @@ class Square extends Rectangle{
 class Circle extends square{
 	
 	void display() {
-		
+		//tushar
+
 		System.out.println("circle is drawn");
 	}
 class square extends Shape{
